@@ -1,0 +1,22 @@
+famous_people = [
+    ("Cristiano Ronaldo", 665_000_000),
+    ("Lionel Messi", 507_000_000),
+    ("Selena Gomez", 406_000_000),
+    ("Kylie Jenner", 383_000_000),
+    ("Dwayne Johnson", 383_000_000),
+    ("Ariana Grande", 363_000_000),
+    ("Kim Kardashian", 365_000_000),
+    ("Beyoncé", 316_000_000),
+    ("Khloé Kardashian", 306_000_000),
+    ("Justin Bieber", 294_000_000),
+    ("Kendall Jenner", 286_000_000),
+    ("Taylor Swift", 276_000_000),
+    ("Virat Kohli", 274_000_000),
+    ("Jennifer Lopez", 247_000_000),
+    ("Neymar Jr", 231_000_000),
+    ("Nicki Minaj", 225_000_000),
+    ("Kourtney Kardashian", 219_000_000),
+    ("Miley Cyrus", 212_000_000),
+    ("Katy Perry", 204_000_000),
+    ("Zendaya", 178_000_000)
+]
