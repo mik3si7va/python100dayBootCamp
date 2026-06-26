@@ -11,8 +11,12 @@ STARTING_POSITIONS = [
 
 HIGH_SCORE = 0  # Initializes the high score to 0
 # Load the high score from a file if it exists
-if path.exists("high_score.txt"):
-    with open("high_score.txt", "r") as file:
+directory = path.dirname(
+    path.abspath(__file__)
+)  # Get the directory of the current file
+high_score_file = path.join(directory, "high_score.txt")
+if path.exists(high_score_file):
+    with open(high_score_file, "r") as file:
         HIGH_SCORE = int(file.read())
         file.close()  # Close the file after reading the high score
 
@@ -78,7 +82,7 @@ class Snake:
         if self.score > HIGH_SCORE:
             HIGH_SCORE = self.score
             # Save the new high score to a file
-            with open("high_score.txt", "w") as file:
+            with open(high_score_file, "w") as file:
                 file.write(str(HIGH_SCORE))
                 file.close()  # Close the file after writing the high score
         self.score = 0
