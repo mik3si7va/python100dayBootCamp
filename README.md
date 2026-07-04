@@ -8,6 +8,22 @@ Each folder represents a day of the challenge and contains the code, experiments
 
 Current status: Day 30/100 🚀
 
+
+## 📅 Dev Log - 04 Jul 2026 .. A Small Pause
+
+No code today.
+
+Tomorrow starts at **5:00 AM**, and with a full day of work ahead, the smartest thing I can do tonight is get some proper rest. Progress isn't measured only by the hours spent coding. Sometimes it's measured by making the right decision so you can come back stronger the next day.
+
+This challenge isn't about chasing perfection. It's about building a habit that lasts far beyond these 100 days. The code can wait a few hours. The journey certainly won't.
+
+Tomorrow, I'll be back at the keyboard.
+
+One brick at a time. 🧱🐍
+
+.. till next session! 😉
+
+
 ## 📅 Dev Log - 03 Jul 2026
 
 Life has shifted gears over the last few days.
