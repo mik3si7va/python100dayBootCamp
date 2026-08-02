@@ -6,8 +6,25 @@ This repository serves as both a learning log and a coding diary, documenting my
 
 Each folder represents a day of the challenge and contains the code, experiments, successes, mistakes, and lessons learned along the way.
 
-Current status: Day 30/100 🚀
+Current status: Day 31/100 🚀
 
+## 📅 Dev Log - 02 Aug 2026 .. A Large Pause
+
+I found a new job in IoT.
+
+I love it, truly. It feels good to finally have the chance to prove my worth in the area and to keep growing in a field that genuinely matters to me.
+
+At the same time, the routine has been heavy. Most days I get home restless, tired, and with very little energy left for personal projects like this one. That part is frustrating, because this challenge still means something to me.
+
+But I'm not worried.
+
+Everything has its right time, and sometimes the pauses are part of the process too. If anything, this kind of opposition only makes it clearer how much I still want this.
+
+So mark my words.
+
+This isn't the end.
+
+Not yet.
 
 ## 📅 Dev Log - 04 Jul 2026 .. A Small Pause
 
