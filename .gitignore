@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Local secrets
+.env
+.env.*
+!.env.example
