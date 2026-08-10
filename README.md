@@ -6,7 +6,25 @@ This repository serves as both a learning log and a coding diary, documenting my
 
 Each folder represents a day of the challenge and contains the code, experiments, successes, mistakes, and lessons learned along the way.
 
-Current status: Day 32/100 🚀
+Current status: Day 33/100 🚀
+
+
+## 📅 Dev Log - 10 Aug 2026 .. Keep Pushing Forward!
+
+Today, I surrendered to the power of my ChatGPT account and let Codex have a go at my code.
+
+In a way, I feel like I'm still training Python just by letting the master of vectorised words do its magic and show me, quite literally, how it's done.
+
+It was a cooperative effort. I brought the ideas; it brought the materials and execution.
+
+Honestly, I didn't want to resort to this at first. But since starting my new job, I've been really busy and tired, and this is the way I found to keep making progress while bringing smoother, more ambitious, and more fun projects to life.
+
+I don't know how far this approach will take me, or whether it will always be like this, but right now I'm enjoying the moment.
+
+Today marks Day 33 of Python, and I feel like I built something genuinely cool. Even if much of my part was prompt engineering, I read the code, and I understand it.
+
+That has to count for something, right? 😉
+
 
 ## 📅 Dev Log - 02 Aug 2026 .. A Large Pause
 
