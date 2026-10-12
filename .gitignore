@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# html generated files
+empire_files/
+
 # Virtual environments
 .venv/
 venv/
@@ -10,4 +13,6 @@ venv/
 # Local secrets
 .env
 .env.*
+browser.json
+!browser.json.example
 !.env.example

@@ -1,0 +1,10 @@
+{
+  "accept": "*/*",
+  "authorization": "PASTE_AUTHORIZATION_FROM_YOUTUBE_MUSIC_REQUEST",
+  "content-type": "application/json",
+  "cookie": "PASTE_COOKIE_FROM_YOUTUBE_MUSIC_REQUEST",
+  "origin": "https://music.youtube.com",
+  "referer": "https://music.youtube.com/",
+  "x-goog-authuser": "0",
+  "x-origin": "https://music.youtube.com"
+}
